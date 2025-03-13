@@ -7,7 +7,7 @@
 
 # LibreTranslator
 
-<img src="https://codeberg.org/BeoCode/LibreTranslator/raw/branch/main/app/src/main/ic_launcher-playstore.png" height=75px> **LibreTranslator a translator based on LibreTranslate**
+<img src="https://github.com/i4designs/LibreTranslator/blob/main/metadata/en-US/images/icon.png" height=75px> **LibreTranslator a translator based on LibreTranslate**
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
      alt="Get it on F-Droid"
